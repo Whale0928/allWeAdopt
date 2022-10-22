@@ -3,7 +3,7 @@ package edu.kh.allWeAdopt.member.controller;
 import edu.kh.allWeAdopt.funding.model.vo.OrderDetail;
 import edu.kh.allWeAdopt.member.model.service.MyPageService;
 import edu.kh.allWeAdopt.member.model.vo.Member;
-import edu.kh.allWeAdopt.point.model.service.PointService;
+import edu.kh.allWeAdopt.member.point.model.service.PointService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

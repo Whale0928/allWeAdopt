@@ -21,16 +21,16 @@
 	<typeAliases>
 	
 		<typeAlias type="edu.kh.allWeAdopt.member.model.vo.Member" alias="member"/> 
-		<typeAlias type="edu.kh.allWeAdopt.shelter.model.vo.Shelter" alias="shelter"/> 
+		<typeAlias type="edu.kh.allWeAdopt.board.shelter.model.vo.Shelter" alias="shelter"/>
 		<typeAlias type="edu.kh.allWeAdopt.board.model.vo.Board" alias="board"/> 
 		<typeAlias type="edu.kh.allWeAdopt.board.model.vo.BoardDetail" alias="detail"/> 
 		<typeAlias type="edu.kh.allWeAdopt.board.model.vo.Reply" alias="reply"/> 
 		<typeAlias type="edu.kh.allWeAdopt.board.model.vo.Template" alias="template"/> 
-		<typeAlias type="edu.kh.allWeAdopt.userBoard.model.vo.Animal" alias="animal"/> 
-		<typeAlias type="edu.kh.allWeAdopt.userBoard.model.vo.Area" alias="area"/> 
+		<typeAlias type="edu.kh.allWeAdopt.board.userBoard.model.vo.Animal" alias="animal"/>
+		<typeAlias type="edu.kh.allWeAdopt.board.userBoard.model.vo.Area" alias="area"/>
 		<typeAlias type="edu.kh.allWeAdopt.member.model.vo.Certification" alias="certification"/> 
-		<typeAlias type="edu.kh.allWeAdopt.main.model.vo.AdminMain" alias="adminMain"/> 
-		<typeAlias type="edu.kh.allWeAdopt.main.model.vo.Anal" alias="anal"/> 
+		<typeAlias type="edu.kh.allWeAdopt.common.main.model.vo.AdminMain" alias="adminMain"/>
+		<typeAlias type="edu.kh.allWeAdopt.common.main.model.vo.Anal" alias="anal"/>
 		
 		
 		
@@ -40,7 +40,7 @@
 		<typeAlias type="edu.kh.allWeAdopt.funding.model.vo.Reward" alias="reward"/> 
 		<typeAlias type="edu.kh.allWeAdopt.funding.model.vo.Supporters" alias="supporters"/> 
 		
-		<typeAlias type="edu.kh.allWeAdopt.point.vo.Rank" alias="rank"/> 
+		<typeAlias type="edu.kh.allWeAdopt.member.point.vo.Rank" alias="rank"/>
 		
 	</typeAliases>
 	
